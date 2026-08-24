@@ -1,32 +1,29 @@
-# OdontoCompany Massaranduba — OPLINK (Multi-Links Oficial)
+# OPLINK — OdontoCompany Massaranduba
 
-Canal oficial de multi-links e apresentação digital da unidade **OdontoCompany Massaranduba**.
+OPLINK oficial de alta performance da unidade **OdontoCompany Massaranduba** (Massaranduba - SC), desenvolvido e mantido pela **OP7 Franchising**.
 
-## 📋 Informações da Unidade
-* **Responsável Técnico:** Dra. Morgana Maria Postai & Dra. Larissa Mees
-* **CRO:** CRO-SC 15.962 • CRO-SC 15.477
-* **Telefone / WhatsApp:** (47) 9253-5733
-* **Endereço:** Rua 7 de Setembro, 1188 (Sala 1), Centro, Massaranduba/SC - CEP 89108-000
-* **Horários:** Segunda a Sexta: 08h às 19h | Sábado: 08h às 13h
+## 📌 Informações da Unidade
+- **Unidade:** OdontoCompany Massaranduba
+- **Responsável Técnico:** Dra. Morgana Maria Postai & Dra. Larissa Mees (CRO-SC 15.962 • CRO-SC 15.477)
+- **Cidade / UF:** Massaranduba - SC
+- **WhatsApp Oficial:** (47) 9253-5733
+- **Site Oficial / LP:** [https://odc-franquados-massaranduba-op7.vercel.app](https://odc-franquados-massaranduba-op7.vercel.app)
+- **Instagram:** [@odontocompanymassaranduba](https://web.facebook.com/profile.php?id=61550904026774)
 
-## 🚀 Tecnologias
-* HTML5 Semântico & Moderno
-* CSS3 Puro (Custom Properties, Double-Bezel, Glassmorphism, Responsive Mobile-First)
-* JavaScript Vanilla (Carrossel Touch-Swipe, Live Status de Horários, Modais Acessíveis)
-* Zero Build Step (Compatível 100% com Vercel "Other" / Static Deploy)
+## ⚡ Stack Tecnológica & Performance
+- **Arquitetura:** Jamstack / Mobile-First Bio-Link 100% Estático (Zero JavaScript Framework Overhead)
+- **Engine:** HTML5 Semântico + CSS3 Moderno (Custom Properties, Backdrop Blur) + Vanilla JavaScript
+- **Ícones & Imagens:** Vetores SVG Matemáticos + WebP de Alta Compressão
+- **Acessibilidade & SEO:** OpenGraph, Twitter Cards, Schema.org JSON-LD (Dentist Specification)
+- **Hospedagem / Deploy:** Vercel (Preset: *Other*)
 
-## 📦 Como Rodar Localmente
-Basta abrir o arquivo `index.html` em qualquer navegador ou rodar um servidor web estático:
-
+## 🚀 Como Executar Localmente
 ```bash
-# Com Python
-python -m http.server 3000
-
-# Com Node / npx
+# Servir com qualquer servidor estático HTTP
 npx serve .
+# ou com Python
+python -m http.server 8080
 ```
 
-## 🌐 Deploy na Vercel
-1. Criar novo projeto na Vercel importando este repositório.
-2. Selecionar o Framework Preset: **Other**.
-3. Clicar em **Deploy**. O site estará no ar em segundos!
+---
+*© ODONTOCOMPANY MASSARANDUBA. Desenvolvido por OP7 Franchising.*
