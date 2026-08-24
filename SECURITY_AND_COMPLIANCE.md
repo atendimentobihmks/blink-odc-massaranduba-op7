@@ -1,7 +1,7 @@
 # Segurança, Privacidade e Conformidade LGPD
 
 ## Unidade: OdontoCompany Massaranduba
-* **Responsável Técnico:** Corpo Clínico Especializado (CRO-SC)
+* **Responsável Técnico:** Dra. Morgana Maria Postai & Dra. Larissa Mees (CRO-SC 15.962 • CRO-SC 15.477)
 * **Endereço:** Rua 7 de Setembro, 1188 (Sala 1), Centro, Massaranduba/SC - CEP 89108-000
 * **Data de Implementação:** Agosto de 2026
 

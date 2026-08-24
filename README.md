@@ -3,8 +3,8 @@
 Canal oficial de multi-links e apresentação digital da unidade **OdontoCompany Massaranduba**.
 
 ## 📋 Informações da Unidade
-* **Responsável Técnico:** Corpo Clínico Especializado
-* **CRO:** CRO-SC
+* **Responsável Técnico:** Dra. Morgana Maria Postai & Dra. Larissa Mees
+* **CRO:** CRO-SC 15.962 • CRO-SC 15.477
 * **Telefone / WhatsApp:** (47) 9253-5733
 * **Endereço:** Rua 7 de Setembro, 1188 (Sala 1), Centro, Massaranduba/SC - CEP 89108-000
 * **Horários:** Segunda a Sexta: 08h às 19h | Sábado: 08h às 13h
