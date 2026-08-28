@@ -8,7 +8,7 @@ OPLINK oficial de alta performance da unidade **OdontoCompany Massaranduba** (Ma
 - **Cidade / UF:** Massaranduba - SC
 - **WhatsApp Oficial:** (47) 9253-5733
 - **Site Oficial / LP:** [https://odc-franquados-massaranduba-op7.vercel.app](https://odc-franquados-massaranduba-op7.vercel.app)
-- **Instagram:** [@odontocompanymassaranduba](https://web.facebook.com/profile.php?id=61550904026774)
+- **Instagram:** [@odontocompanymassaranduba](https://www.facebook.com/profile.php?id=61550904026774)
 
 ## ⚡ Stack Tecnológica & Performance
 - **Arquitetura:** Jamstack / Mobile-First Bio-Link 100% Estático (Zero JavaScript Framework Overhead)
