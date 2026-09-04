@@ -4,7 +4,7 @@ OPLINK oficial de alta performance da unidade **OdontoCompany Massaranduba** (Ma
 
 ## 📌 Informações da Unidade
 - **Unidade:** OdontoCompany Massaranduba
-- **Responsável Técnico:** Dra. Morgana Maria Postai & Dra. Larissa Mees (CRO-SC 15.962 • CRO-SC 15.477)
+- **Responsável Técnico:** Dra. Kathleen (CRO-SC)
 - **Cidade / UF:** Massaranduba - SC
 - **WhatsApp Oficial:** (47) 9253-5733
 - **Site Oficial / LP:** [https://odc-franquados-massaranduba-op7.vercel.app](https://odc-franquados-massaranduba-op7.vercel.app)
